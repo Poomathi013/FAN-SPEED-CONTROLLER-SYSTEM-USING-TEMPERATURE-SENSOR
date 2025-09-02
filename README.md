@@ -3,13 +3,13 @@
 # EXP 1(A) FAN SPEED CONTROLLER SYSTEM USING TEMPERATURE SENSOR
 
 # Aim:
-	To measure the Temperature using DHT11/DHT22/TMP36  sensor with Arduino UNO Board/ESP-32 using Tinker CAD.
+To measure the Temperature using DHT11/DHT22/TMP36  sensor with Arduino UNO Board/ESP-32 using Tinker CAD.
 
 # Hardware / Software Tools required:
-	PC/ Laptop with Internet connection
-    Tinker CAD tool (Online)
-	Arduino UNO Board/ESP-32
-	Temperature Sensor (DHT11/DHT22/TMP36)
+PC/ Laptop with Internet connection
+Tinker CAD tool (Online)
+Arduino UNO Board/ESP-32
+Temperature Sensor (DHT11/DHT22/TMP36)
 
 # Circuit Diagram:
 
