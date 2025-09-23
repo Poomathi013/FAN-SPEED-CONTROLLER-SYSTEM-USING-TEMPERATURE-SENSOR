@@ -187,3 +187,4 @@ https://github.com/user-attachments/assets/1841371e-b0bb-4e54-8424-8064d1ecdc37
 
 # Result
 The temperature and humidity values are measured using DHT11/DHT22/TMP36 sensor with Arduino UNO Board/ESP-32 and Simulated using Tinker CAD.
+
